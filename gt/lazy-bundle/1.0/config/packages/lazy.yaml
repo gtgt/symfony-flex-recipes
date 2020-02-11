@@ -1,0 +1,3 @@
+lazy:
+    second_level_cache:
+        entity_names: []

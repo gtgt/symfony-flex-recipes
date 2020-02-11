@@ -1,0 +1,15 @@
+{
+    "bundles": {
+        "LazyBundle\\LazyBundle": ["all"]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    },
+    "composer-scripts": {
+        "cache:clear": "symfony-cmd"
+    },
+    "env": {
+    },
+    "gitignore": [
+    ]
+}
